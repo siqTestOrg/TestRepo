@@ -9,7 +9,6 @@ namespace MyLibrary.Tests
 
         public CalculatorTests()
         {
-            dsa;
             _calculator = new Calculator();
         }
 
