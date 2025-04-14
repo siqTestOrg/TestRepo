@@ -4,10 +4,10 @@ using MyLibrary;
 public class UnitTest1
 {
     [Fact]
-    public void Test_Add()
+    public void Test_Subtract()
     {
         var Calculator = new Calculator();
-        int result = Calculator.Add(2, 3);
-        Assert.Equal(5, result);  
+        int result = Calculator.Subtract(2, 3);
+        Assert.Equal(-1, result);  
     }
 }
