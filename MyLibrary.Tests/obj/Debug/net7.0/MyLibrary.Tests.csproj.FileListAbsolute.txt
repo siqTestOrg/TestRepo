@@ -100,3 +100,6 @@ C:\Users\25531\Desktop\kcg-projects\TestRepo\MyLibrary.Tests\obj\Debug\net7.0\re
 C:\Users\25531\Desktop\kcg-projects\TestRepo\MyLibrary.Tests\obj\Debug\net7.0\MyLibrary.Tests.pdb
 C:\Users\25531\Desktop\kcg-projects\TestRepo\MyLibrary.Tests\obj\Debug\net7.0\MyLibrary.Tests.genruntimeconfig.cache
 C:\Users\25531\Desktop\kcg-projects\TestRepo\MyLibrary.Tests\obj\Debug\net7.0\ref\MyLibrary.Tests.dll
+C:\Users\25531\Documents\TestRepo\MyLibrary.Tests\obj\Debug\net7.0\MyLibrary.Tests.dll
+C:\Users\25531\Documents\TestRepo\MyLibrary.Tests\obj\Debug\net7.0\refint\MyLibrary.Tests.dll
+C:\Users\25531\Documents\TestRepo\MyLibrary.Tests\obj\Debug\net7.0\MyLibrary.Tests.pdb

@@ -5532,11 +5532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\25531\\Desktop\\kcg-projects\\TestRepo\\MyLibrary.Tests\\MyLibrary.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\25531\\Documents\\TestRepo\\MyLibrary.Tests\\MyLibrary.Tests.csproj",
       "projectName": "MyLibrary.Tests",
-      "projectPath": "C:\\Users\\25531\\Desktop\\kcg-projects\\TestRepo\\MyLibrary.Tests\\MyLibrary.Tests.csproj",
+      "projectPath": "C:\\Users\\25531\\Documents\\TestRepo\\MyLibrary.Tests\\MyLibrary.Tests.csproj",
       "packagesPath": "C:\\Users\\25531\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\25531\\Desktop\\kcg-projects\\TestRepo\\MyLibrary.Tests\\obj\\",
+      "outputPath": "C:\\Users\\25531\\Documents\\TestRepo\\MyLibrary.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\25531\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5553,8 +5553,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\25531\\Desktop\\kcg-projects\\TestRepo\\MyLibrary\\MyLibrary.csproj": {
-              "projectPath": "C:\\Users\\25531\\Desktop\\kcg-projects\\TestRepo\\MyLibrary\\MyLibrary.csproj"
+            "C:\\Users\\25531\\Documents\\TestRepo\\MyLibrary\\MyLibrary.csproj": {
+              "projectPath": "C:\\Users\\25531\\Documents\\TestRepo\\MyLibrary\\MyLibrary.csproj"
             }
           }
         }
