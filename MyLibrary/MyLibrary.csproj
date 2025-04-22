@@ -5,7 +5,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>  
-
   <ItemGroup>
     <ProjectReference Include="..\Test3\Test3.csproj" />
   </ItemGroup>
