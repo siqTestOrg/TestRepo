@@ -1,6 +1,6 @@
-﻿namespace MyLibrary
+namespace MyLibrary
 {
-    public class Calculator
+    public class Calculator2
     { 
         public int Add(int a, int b)
         {
