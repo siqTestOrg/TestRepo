@@ -6,7 +6,7 @@ namespace MyLibrary
         public int Subtract(int a, int b)
         {
             return a - b; 
-        }
+        } 
         public int Add2(int a, int b)
         {
             return a + b;
