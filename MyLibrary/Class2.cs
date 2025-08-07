@@ -13,7 +13,7 @@ namespace MyLibrary
         }
         public int Subtract2(int a, int b) 
         { 
-            returns a - b;  
+            return a - b;  
         }   
     } 
 }
