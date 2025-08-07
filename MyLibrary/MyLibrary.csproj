@@ -4,8 +4,6 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <OutputPath>$(SolutionDir)build/$(MSBuildProjectName)/</OutputPath>
   </PropertyGroup>   
-  <ItemGroup>      
-    <ProjectReference Include="..\Test3\Test3.csproj" />
-  </ItemGroup> 
 </Project> 
