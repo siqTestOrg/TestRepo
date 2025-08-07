@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\25531\\Documents\\TestRepo\\MyLibrary\\MyLibrary.csproj": {}
+    "/Users/a25531/Desktop/WorkFiles/kcg-org/TestRepo/MyLibrary/MyLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\25531\\Documents\\TestRepo\\MyLibrary\\MyLibrary.csproj": {
+    "/Users/a25531/Desktop/WorkFiles/kcg-org/TestRepo/MyLibrary/MyLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\25531\\Documents\\TestRepo\\MyLibrary\\MyLibrary.csproj",
+        "projectUniqueName": "/Users/a25531/Desktop/WorkFiles/kcg-org/TestRepo/MyLibrary/MyLibrary.csproj",
         "projectName": "MyLibrary",
-        "projectPath": "C:\\Users\\25531\\Documents\\TestRepo\\MyLibrary\\MyLibrary.csproj",
-        "packagesPath": "C:\\Users\\25531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\25531\\Documents\\TestRepo\\MyLibrary\\obj\\",
+        "projectPath": "/Users/a25531/Desktop/WorkFiles/kcg-org/TestRepo/MyLibrary/MyLibrary.csproj",
+        "packagesPath": "/Users/a25531/.nuget/packages/",
+        "outputPath": "/Users/a25531/Desktop/WorkFiles/kcg-org/TestRepo/MyLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\25531\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/a25531/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -34,11 +32,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
